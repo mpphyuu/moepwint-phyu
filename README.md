@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moepwint-phyu
+- 👋 Hi, I’m Moe Pwint Phyu
 - 👀 I’m interested in Business Intelligence.
 - 🌱 I’m currently learning SQL for Data Analysis
 - 💞️ I’m looking to collaborate on data analysis projects.
